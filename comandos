@@ -1,0 +1,22 @@
+npm i express
+npm i express-handlebars
+npm i mongoose
+npm install -g typescript
+npm install typescript --save-dev
+npm install @types/express
+npm install @types/express-handlebars
+npm install @types/mongoose
+npm i ts-node
+npm i nodemon
+npm run dev
+npm i handlebars
+npm i express-session 
+npm i cookie-parser 
+npm i connect-flash 
+npm i ejs 
+npm i bcrypt-nodejs 
+npm i body-parser 
+npm i morgan 
+npm i passport 
+npm i passport-local
+npm set registry http://registry.npmjs.org/
